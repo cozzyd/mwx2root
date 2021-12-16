@@ -9,5 +9,5 @@ MWX is a format that seems to be used by some radiosondes containing sounding da
 
 ## Notes 
 
-You can use unzip -l to find the XML files within the tree. This program works by calling unzip to extract a file into memory so if you have an insanely large XML file it will use some memory. 
+You can use `unzip -l` to find the XML files within the archive. This program works by calling `unzip` to extract a file into memory so if you have an insanely large XML file it will use some memory. You must have a version of unzip that supports that, which you probably do? 
 
